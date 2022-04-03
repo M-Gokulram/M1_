@@ -1,13 +1,4 @@
-/**
- * @file project_main.c
- * @author Annapurna Bisanalli
- * @brief 
- * @version 0.1
- * @date 2021-09-06
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include "airline_reservation.h"
 #include<stdio.h>
 
